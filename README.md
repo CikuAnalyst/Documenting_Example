@@ -12,6 +12,7 @@
 - [References](#references) 
 
 ### Project Overview
+---
 This Data Analysis Project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 ![pie chart eg](https://github.com/CikuAnalyst/Documenting_Example/assets/132788939/631edf68-a2c6-4b71-aab5-5ef7e1b20724)
@@ -65,7 +66,14 @@ I had to remove all zero values from the budget and revenue columns because they
 1. SQL for Businesses by Herman Ross
 2. [Stack Overflow](https://stack.com)
 
+😃💻🛒
 
+🔼
+
+|Heading 1|Heading 2|
+|--------|--------|
+|Content|Content2|
+|Python|SQL| 
 
 
 
