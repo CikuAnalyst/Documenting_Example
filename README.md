@@ -14,6 +14,9 @@
 ### Project Overview
 This Data Analysis Project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+![pie chart eg](https://github.com/CikuAnalyst/Documenting_Example/assets/132788939/631edf68-a2c6-4b71-aab5-5ef7e1b20724)
+
+
 ### Data Sources
 Sales Data: The primary data set used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
 
